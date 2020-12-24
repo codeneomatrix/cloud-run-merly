@@ -1,7 +1,9 @@
 # Cloud Run Merly container
 
 This repository contains the source code of a sample Merly application that is
-distributed as the public container image (`https://hub.docker.com/r/codeneomatrix/merly/tags?page=1&ordering=last_updated`).
+distributed as the public container image (`gcr.io/cloudrun/hello`) used in the
+[Cloud Run quickstart](https://cloud.google.com/run/docs/quickstarts/) and as
+the suggested container image  in the Cloud Run UI on Cloud Console.
 
 
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://github.com/codeneomatrix/cloud-run-merly.git)
